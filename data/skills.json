@@ -1,0 +1,12 @@
+{
+    "skills":[
+        {"skill_name": "Vue","id": 1, "icon_path": "../assets/vue_icon.png"},
+        {"skill_name": "JavaScript","id": 2, "icon_path": "../assets/js_icon.png"},
+        {"skill_name": "Unity","id": 3, "icon_path": "../assets/unity_icon.png"},
+        {"skill_name": "Arduino IDE","id": 4 , "icon_path": "../assets/arduino_icon.png"},
+        {"skill_name": "Python","id": 5, "icon_path": "../assets/python_icon.png"},
+        {"skill_name": "SparkAR","id": 6, "icon_path": "../assets/sparkAR_icon.png"},
+        {"skill_name": "Illustrator","id": 7, "icon_path": "../assets/ai_icon.png"}      
+
+    ]
+}
