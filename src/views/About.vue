@@ -47,11 +47,11 @@
       <div class="title">>> Intro</div>
       
       <div class="intro">
-        Hi ! 我是<span class="yText">Jayden</span>，一名正朝前端開發轉職的工程師。
-        過去曾製作過許多軟硬體結合的 <span class="bigText yText">VR</span>、<span class="bigText yText">觸覺回饋遊戲</span>，
-        現在則致力於研究<span class="bigText yText">前端框架</span>以及<span class="bigText yText">網頁效果</span>。<br>
-        個人擁有很高的自學能力，大部分作品都是自行開發完成，詳細的作品內容已放置於作品集中！<br>
-        目前正努力製作更多網頁相關的SideProject，希望能將這些能力應用於實務中！</div>
+        Hi ! 我是<span class="bigText yText">Jayden</span>。<br>
+        過去曾製作過許多軟硬體結合的 <span class="yText">VR</span>、<span class="yText">觸覺回饋遊戲</span>，<br>
+        近期則開發了<span class=" yText">個人網站</span>。<br>
+        大部分作品都是自行開發完成，詳細的作品內容已放置於作品集中！<br>
+        希望未來能夠接觸到更多實務上的程式技術，創造、開發更多不同的互動體驗！</div>
       
       <div class="title">>> Skill</div>
       <div v-for="skill in skills" :key="skill.id" class="skill_btn">
@@ -75,6 +75,12 @@
       </div>
       <div class="title">>> Experience</div>
       <div class="exp">
+        
+        <span class="underline">22.09 - 23.03</span><br>
+        CodingAPE <span class="yText">程式設計課程講師</span><br>
+        猿創力程式設計學校<br>
+        <br>
+        
         <span class="underline">20.09 - 21.05</span> <br>
         <span class="yText">International Conference Paper Author</span><br>
         2021 ICIDD<br>
